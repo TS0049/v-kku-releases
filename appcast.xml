@@ -1,6 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>V-KKU</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Thu, 12 Nov 2026 21:16:23 +0800</pubDate>
+            <sparkle:version>0.1.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# V-KKU 0.1.1
+
+- 「段落」と言うと空行が入ります。
+- はじめての設定は「はじめる」ボタン 1 つになりました。設定は開始キーだけです。
+- 話している途中の文字が、いつも表示されます。
+- 音声はこの Mac にだけ 30 日残り、過ぎると自動で消えます。
+
+---
+
+- 說「下一段」會插入空行。
+- 初次設定只需按一次「開始」。設定只剩啟動鍵。
+- 說話時會一直顯示正在辨識的文字。
+- 語音只保存在這台 Mac 30 天，之後自動刪除。
+]]></description>
+            <enclosure url="https://github.com/TS0049/v-kku-releases/releases/download/v0.1.1/V-KKU-v0.1.1.zip" length="5840134" type="application/octet-stream" sparkle:edSignature="2KIK/iTDIhwkhNkeTOoUvUjv6bGQh4bU8KK69ozSi5ZX7hGI3t4xAk/QsPUd1C+QgPZqgZJRuD5CVbgBofJeAw=="/>
+        </item>
     </channel>
 </rss>
