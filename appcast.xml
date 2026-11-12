@@ -3,6 +3,26 @@
     <channel>
         <title>V-KKU</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Fri, 13 Nov 2026 06:56:26 +0800</pubDate>
+            <sparkle:version>0.1.2</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# V-KKU 0.1.2
+
+- ホームができました。使った時間と、打つより縮んだ時間（目安）が一目で分かります。
+- 単語集を、読み上げで作れるようになりました。いつもの AI に頼んだ文を読むと、聞き違いから直し方の案が出ます。入れる前に確かめられます。
+- 設定を 3 つにまとめ、すっきりさせました。fn キーがほかの動作とぶつかるときは、その動作を名前で知らせます。
+
+---
+
+- 新增首頁。一眼就能看到使用時間，以及比打字節省的時間（估計）。
+- 可以用朗讀來建立詞彙表。朗讀請常用 AI 產生的句子，就會依辨識錯誤提出修正建議，加入前可先確認。
+- 設定整理成 3 項，更簡潔。fn 鍵與其他功能衝突時，會直接告訴你是哪個功能。
+]]></description>
+            <enclosure url="https://github.com/TS0049/v-kku-releases/releases/download/v0.1.2/V-KKU-v0.1.2.zip" length="6146260" type="application/octet-stream" sparkle:edSignature="P+WFqomW3wcNawSsNx3pO4xY9KIHkNzj1rBF23F7Y3mB0EP3nfl2obdAxRcJmk98pFSEHgf00pGS/g54dYvZAA=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Thu, 12 Nov 2026 21:16:23 +0800</pubDate>
             <sparkle:version>0.1.1</sparkle:version>
