@@ -3,6 +3,26 @@
     <channel>
         <title>V-KKU</title>
         <item>
+            <title>0.1.3</title>
+            <pubDate>Fri, 13 Nov 2026 14:23:12 +0800</pubDate>
+            <sparkle:version>0.1.3</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# V-KKU 0.1.3
+
+- 単語集の作り方を 2 つから選べるようになりました。「いつものチャットで作る」は、AI が作った文をそのチャットで読み、AI が直し方の一覧を返します。「V-KKU で読み上げる」は、文を V-KKU で読み、V-KKU が聞き違いを見つけます（声は Mac の外に出ません）。
+- AI に頼む文を、作り方ごとに書き換えられるようになりました（単語集の「頼む文を編集…」）。
+- 一覧を貼って足すとき、普段の言葉やほかの言葉を壊す直しは「使わない」に分け、入れる前に確かめられます。
+
+---
+
+- 現在可以從 2 種方式建立詞彙表。「在常用的聊天中製作」：在那個聊天中朗讀 AI 產生的句子，由 AI 回傳修正清單。「在 V-KKU 中朗讀」：用 V-KKU 朗讀句子，由 V-KKU 找出辨識錯誤（聲音不會離開你的 Mac）。
+- 可以依建立方式，修改傳給 AI 的請求文（詞彙表的「編輯請求文…」）。
+- 貼上清單加入時，一般用語或會影響其他詞的修正會分到「不使用」，加入前可先確認。
+]]></description>
+            <enclosure url="https://github.com/TS0049/v-kku-releases/releases/download/v0.1.3/V-KKU-v0.1.3.zip" length="6264462" type="application/octet-stream" sparkle:edSignature="isocUY6enOnQDWn5kZCDO8sQTYt76e04OFOyUXHjOInBgswN7X5/lAMY7LWTglmSQQgYsTYQUXX1OKCCUPBsBQ=="/>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Fri, 13 Nov 2026 06:56:26 +0800</pubDate>
             <sparkle:version>0.1.2</sparkle:version>
