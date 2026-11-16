@@ -3,6 +3,24 @@
     <channel>
         <title>V-KKU</title>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Mon, 16 Nov 2026 08:47:35 +0800</pubDate>
+            <sparkle:version>0.1.5</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# V-KKU 0.1.5
+
+- 設定の「入力」で、話している間の表示を「丸」か「文字も出す」から選べるようにしました。
+- 文字を出すときの板を小さくし、画面の邪魔になりにくくしました。
+
+---
+
+- 在設定的「輸入」中，可以選擇說話時的顯示方式：「圓形」或「也顯示文字」。
+- 縮小了顯示文字時的面板，比較不會擋住畫面。
+]]></description>
+            <enclosure url="https://github.com/TS0049/v-kku-releases/releases/download/v0.1.5/V-KKU-v0.1.5.zip" length="6345680" type="application/octet-stream" sparkle:edSignature="HmFAkptmYzAn6oLRm32OjA0PKOENeb9UO0k/ZXaAnmRCkwvpMFbHmu4080cBGs4um8qUGsBiye5cIGbR/qK1DQ=="/>
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Mon, 16 Nov 2026 06:34:44 +0800</pubDate>
             <sparkle:version>0.1.4</sparkle:version>
