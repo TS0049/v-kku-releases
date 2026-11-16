@@ -3,6 +3,24 @@
     <channel>
         <title>V-KKU</title>
         <item>
+            <title>0.1.6</title>
+            <pubDate>Mon, 16 Nov 2026 09:36:09 +0800</pubDate>
+            <sparkle:version>0.1.6</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# V-KKU 0.1.6
+
+- 新しい版が出たら、メニューバーの小窓とホームに「新しいアップデートが来ています」と出るようにしました。
+- 「今すぐアップデート」を押すと、確認の窓を出さずに入れ替えて再起動します（話している途中なら、終わってから）。
+
+---
+
+- 有新版本時，選單列的小視窗和首頁會顯示「有新的更新」。
+- 按下「立即更新」後，不必再確認，就會更新並重新啟動（說話中會等說完再進行）。
+]]></description>
+            <enclosure url="https://github.com/TS0049/v-kku-releases/releases/download/v0.1.6/V-KKU-v0.1.6.zip" length="6397482" type="application/octet-stream" sparkle:edSignature="LIGPsIRhw/IDtjYbTz0OwyajWRm8GnJKGq8EbkvIcGbwcywJ4FrIz4Ti7SswreO3hRwLFbL1h2IxKopsF5SZBA=="/>
+        </item>
+        <item>
             <title>0.1.5</title>
             <pubDate>Mon, 16 Nov 2026 08:47:35 +0800</pubDate>
             <sparkle:version>0.1.5</sparkle:version>
